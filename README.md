@@ -39,7 +39,7 @@ HTML, CSS, Vanilla JavaScript만을 사용하여 Google 메인 페이지의 UI�
 ## 설치 및 실행
 
 ### GitHub Pages
-https://xcixcode.github.io/Google-Clone/
+https://xcixpkim.github.io/Google-Clone/
 
 ### 로컬에서 실행
 1. 저장소를 클론하거나 `.zip` 파일로 다운로드합니다.  
